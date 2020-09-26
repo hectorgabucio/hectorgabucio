@@ -35,12 +35,6 @@ theme = "hugo-raditian"
   URL = "#portfolio"
   weight = 3
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
   [[menu.footer]]
   name = "About"
   URL = "#about"
@@ -66,8 +60,8 @@ theme = "hugo-raditian"
     text2 = "Gabucio"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = ""
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        alt = "Made with radity Go hugo template"
