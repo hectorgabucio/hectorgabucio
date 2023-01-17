@@ -1,4 +1,4 @@
-baseURL = "https://hectorgabucio.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-raditian"
 
