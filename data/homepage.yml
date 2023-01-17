@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Hello, I’m Héctor."
-  subtitle: "Backend Developer"
+  subtitle: "Software Engineer"
   description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -49,13 +49,13 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "University of Alicante"
+      year: "2016-2018"
+      degree: "Master in Computer Science"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "University of Alicante"
+      year: "2012-2016"
+      degree: "Bachelor in Computer Science"
 
 # experience
 experience:
@@ -72,14 +72,21 @@ experience:
     - title: "Sr. Front-End Developer"
       company: "Radity"
       duration: "Feb 2011 - Sep 2019"
+      description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\n\n
+                      Suspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
 
     - title: "Sr. Front-End Developer"
       company: "Textic"
       duration: "Apr 2010 - Jan 2011"
+      description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\n\n
+                      Suspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
 
     - title: "Jr. Front-End Developer"
       company: "Cyberse"
       duration: "Jun 2009 - Mar 2010"
+      description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\n\n
+                      Suspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
+
 
 # Client & Work
 client_and_work:
@@ -97,6 +104,16 @@ client_and_work:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit project site"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: false
 
 # testimonial
 testimonial:
