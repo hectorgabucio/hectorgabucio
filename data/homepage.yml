@@ -105,8 +105,8 @@ client_and_work:
         btnText: "Visit project site"
         URL: "https://github.com/hectorgabucio/taterubot-dc"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/taterubot.gif"
+        _2x: "img/works/taterubot.gif"
       is_even: true
     - title: "Do not develop my app - Showcase of microservices in k8s"
       description: "Overly complicated project just to collect Rick and Morty cards.
