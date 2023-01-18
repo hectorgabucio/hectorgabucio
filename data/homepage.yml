@@ -130,7 +130,7 @@ client_and_work:
       image:
         x: "img/works/mattermost.png"
         _2x: "img/works/mattermost.png"
-      is_even: false
+      is_even: true
 
 # testimonial
 testimonial:
