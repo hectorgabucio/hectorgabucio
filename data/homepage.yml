@@ -11,16 +11,19 @@ showcase:
     x: "img/showcase/showcase-mobile.jpg"
 
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "mailto:hectorcompangabucio@gmail.com"
+    icon: "icon-profile-fill"
+    btnText: "CV"
+    URL: "nothing"
 
   socialLinks:
-    - icon: "linkedin"
+    - icon: "icon-linkedin-line"
       URL: "https://www.linkedin.com/in/hectorjosecompangabucio/"
 
-    - icon: "github"
+    - icon: "icon-github-line"
       URL: "https://github.com/hectorgabucio"
+
+    - icon: "icon-mail-fill"
+      URL: "mail"
 
 # about
 about:
