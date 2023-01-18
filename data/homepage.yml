@@ -122,7 +122,7 @@ client_and_work:
       is_even: false
 
     - title: "Open source contributions to Mattermost"
-      description: "I haved contributed to this public open source project, both in the core server and in different plugins(Jira, Github...). You can go to the Github pages of Mattermost and filter closed PR's by my github handle hectorgabucio."
+      description: "Tech used: mainly Go. I haved contributed to this public open source project, both in the core server and in different plugins(Jira, Github...). You can go to the Github pages of Mattermost and filter closed PR's by my github handle hectorgabucio."
       button:
         icon: "icon-arrow-right"
         btnText: "Visit project site"
