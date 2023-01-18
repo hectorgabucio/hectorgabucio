@@ -97,25 +97,28 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Taterubot - Audio messages with your friends on Discord "
+      description: "Taterubot is a Discord bot that allows recording voice messages and sending them on your server.
+        Go + Postgres + Discord API + ffmpeg + Docker + AMPQ + Hexagonal Architecture + Github actions"
       button:
         icon: "icon-arrow-right"
         btnText: "Visit project site"
-        URL: "#"
+        URL: "https://github.com/hectorgabucio/taterubot-dc"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Do not develop my app - Showcase of microservices in k8s"
+      description: "Overly complicated project just to collect Rick and Morty cards.
+        Go + React + CockroachDB + Microservices + Docker + GRPC + Google Sign in +
+          CI/CD with Github Actions + GKE"
       button:
         icon: "icon-arrow-right"
         btnText: "Visit project site"
-        URL: "#"
+        URL: "https://github.com/hectorgabucio/donotdevelopmyapp"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/donotdevelopapp.webp"
+        _2x: "img/works/donotdevelopapp.webp"
       is_even: false
 
 # testimonial
