@@ -12,8 +12,8 @@ showcase:
 
   button:
     icon: "icon-profile-fill"
-    btnText: "CV"
-    URL: "nothing"
+    btnText: "My Resume"
+    URL: "https://drive.google.com/file/d/1uUgy-uYP56-m3npELGXdrj0GT_cR24fA/view"
 
   socialLinks:
     - icon: "icon-linkedin-line"
@@ -23,7 +23,7 @@ showcase:
       URL: "https://github.com/hectorgabucio"
 
     - icon: "icon-mail-fill"
-      URL: "mail"
+      URL: "mailto:hectorcompangabucio@gmail.com"
 
 # about
 about:
