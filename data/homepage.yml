@@ -72,24 +72,50 @@ experience:
 
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
-      description: " Lorem ipsum dolor sit amet<br> 
-        consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\nSuspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
-
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
-      description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\n\n
-                      Suspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
-
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
-      description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin leo sem, non interdum sapien egestas sit amet. Ut ut eros at nisl feugiat interdum a sodales est. Duis id sapien et nisi hendrerit consequat. Proin accumsan elit ac risus consequat iaculis. Quisque fringilla enim a eros dapibus, vel ullamcorper neque elementum. Donec scelerisque tempor ligula eget malesuada.\n\n
-                      Suspendisse aliquet pretium justo, sed molestie turpis.Morbi vitae justo eget mauris aliquam suscipit a a velit. Praesent enim ligula, semper sit amet mattis vitae, pharetra ac felis. Morbi in rutrum tortor. Nam sit amet sollicitudin erat. Suspendisse ac augue mauris. Praesent condimentum mattis mauris nec volutpat. Sed orci tortor, placerat quis pretium eu, accumsan sed massa. "
-
+    - title: "Backend software developer"
+      company: "Tacter"
+      duration: "Nov 2020 - Nov 2022 (2 years)"
+      description: "Being part of an early stage startup that provides apps for videogames assistance and coaching, I managed completely the backend of the
+        company, providing API’s for our Android & IOS apps, being in charge of managing our AWS infrastructure and taking critical technical
+        decisions to ensure that our users receive a stable and scalable system.
+        <br><br>**Technology stack**:<br>
+          ● Node.js, Typescript.<br>
+          ● PostgreSQL<br>
+          ● Git & Github.<br>
+          ● CI: Github Actions.<br>
+          ● ESLint for code linting.<br>
+          ● Jest for testing.<br>
+          ● Firebase for users auth.<br>
+          ● AWS related: Elastic Beanstalk for our backend API servers, ECS clusters, AWS Lambda for serverless functions, RDS for managed
+          Postgres databases, DynamoDB, Elasticache for managed Redis servers, Cloudwatch for logging and monitoring, S3 for static
+          assets, Cloudfront as CDN.<br>"
+    - title: "Software developer"
+      company: "Goldcar"
+      duration: "Nov 2019 - Nov 2020 (1 year)"
+      description: "Member of the Document Validation Squad, responsible of scanning the client's documentation (ID, passport) in order to be able to rent a
+        car in Goldcar as fast as possible. This team works following Agile principles and has a strong emphasis on quality assurance.
+        <br><br>**Technology stack**:<br>
+        ● Java 8/11, Spring Boot.<br>
+        ● SQL Server.<br>
+        ● Git & Bitbucket/Gitlab<br>
+        ● CI: Jenkins & Gitlab CI.<br>
+        ● SonarQube for code analysis.<br>
+        ● JUnit, Mockito, Wiremock, Pact and FitNesse for testing.<br>
+        ● Notion for team knowledge, Jira as main source for managing tasks and agile sprints.<br>"
+    - title: "Junior Software developer"
+      company: "Altia"
+      duration: "Nov 2018 - Nov 2019 (1 year)"
+      description: "Working for a consulting company, my client was Inditex, one of the largest spanish companies. I developed multiple microservices of vital
+        importance for the intranet of Inditex (human resources, sales, logistics). I also migrated some old web services hosted in Weblogic servers
+        to the new Openshift Platform.
+        <br><br>**Technology stack**:<br>
+        ● Java 7 & 8, Spring and Spring boot as web frameworks.<br>
+        ● Oracle database server.<br>
+        ● Git & Bitbucket.<br>
+        ● CI: Bamboo.<br>
+        ● SonarQube for code analysis.<br>
+        ● Junit and Mockito for testing.<br>
+        ● Confluence for team knowledge, Jira to release management and deployment of microservices."
 
 # Client & Work
 client_and_work:
