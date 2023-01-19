@@ -40,8 +40,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/hectorjosecompangabucio/"
   image:
-    x: "img/who-am-i/hector.png"
-    _2x: "img/who-am-i/hector.png"
+    x: "img/who-am-i/hector.jpeg"
+    _2x: "img/who-am-i/hector@2x.jpeg"
 
 # education
 education:
