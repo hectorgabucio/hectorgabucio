@@ -119,6 +119,28 @@ client_and_work:
   enable: true
 
   works:
+    - title: "Starbound Experience - Go + EbitenEngine WASM Game"
+      description: "Starbound Experience is a toy project to showcase how to use Go and EbitenEngine to compile a videogame made in Go to WASM and deploy it on the web."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit project site"
+        URL: "https://github.com/hectorgabucio/starbound"
+      image:
+        x: "img/works/taterubot.gif"
+        _2x: "img/works/taterubot.gif"
+      is_even: true
+
+    - title: "CercaAlicante - Offline Cercanías Timetable App"
+      description: "CercaAlicante is a toy project built using Windsurf. It is a simple offline app made with Flutter to show the timetables of the Cercanías Alicante train system."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit project site"
+        URL: "https://github.com/hectorgabucio/cercanias-alicante"
+      image:
+        x: "img/works/taterubot.gif"
+        _2x: "img/works/taterubot.gif"
+      is_even: false
+
     - title: "Taterubot - Audio messages with your friends on Discord "
       description: "Taterubot is a Discord bot that allows recording voice messages and sending them on your server.
         Go + Postgres + Discord API + ffmpeg + Docker + AMPQ + Hexagonal Architecture + Github actions"
@@ -153,29 +175,6 @@ client_and_work:
         x: "img/works/mattermost.png"
         _2x: "img/works/mattermost.png"
       is_even: true
-
-    - title: "Starbound Experience - Go + EbitenEngine WASM Game"
-      description: "Starbound Experience is a toy project to showcase how to use Go and EbitenEngine to compile a videogame made in Go to WASM and deploy it on the web."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Visit project site"
-        URL: "https://github.com/hectorgabucio/starbound"
-      image:
-        x: "img/works/taterubot.gif"
-        _2x: "img/works/taterubot.gif"
-      is_even: false
-
-    - title: "CercaAlicante - Offline Cercanías Timetable App"
-      description: "CercaAlicante is a toy project built using Windsurf. It is a simple offline app made with Flutter to show the timetables of the Cercanías Alicante train system."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Visit project site"
-        URL: "https://github.com/hectorgabucio/cercanias-alicante"
-      image:
-        x: "img/works/taterubot.gif"
-        _2x: "img/works/taterubot.gif"
-      is_even: true
-
 # testimonial
 testimonial:
   enable: false
