@@ -8,7 +8,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project.
 docker run --rm -it \
   -v $(pwd):/src \
-  klakegg/hugo:0.74.3
+  klakegg/hugo:0.59.0
 
 # Go To Public folder
 cd public
