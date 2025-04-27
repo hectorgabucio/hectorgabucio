@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Hello, I’m Héctor."
-  subtitle: "Software Engineer"
+  subtitle: "Senior Backend Software Engineer"
   description: ""
   image:
     x: "img/showcase/showcase.png"
@@ -29,12 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: 'Software engineer with 6 years of experience working in backend development. I describe myself as a very adaptive and self-motivated
-    person. From working on consulting on big projects with a lot of people, passing to product development with high emphasis in quality, and
-    finally in a small startup with a “move fast, break things'' philosophy, I’m always comfortable with any challenge, and I’ll be able to face it
-    autonomously and self-sufficiently. <br>Although I’m capable of working alone and owning a part of a product development, I love the feeling of
-    working in a team, and I think that humor is a key to success at work.
-    </p>'
+  content: 'Senior Backend Software Engineer with over 6 years of experience designing, developing, and scaling backend systems and microservices architectures. Specialized in backend development with Go, Node.js, and Java, cloud computing (AWS), containerization (Docker), and monitoring solutions (Prometheus, Grafana, Loki). Solid track record across industries such as logistics, ridesharing, and gaming, with notable contributions to companies like Cabify, Tacter (official partner of Riot Games), and Europcar Mobility Group. Passionate about clean architecture, CI/CD pipelines, and open-source contribution. Bilingual in Spanish and English.'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -50,68 +45,43 @@ education:
   items:
     - university: "University of Alicante"
       year: "2016-2018"
-      degree: "Master in Computer Science"
+      degree: "Master's Degree in Computer Science"
 
     - university: "University of Alicante"
       year: "2012-2016"
-      degree: "Bachelor in Computer Science"
+      degree: "Bachelor's Degree in Computer Science"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Senior Backend Software Engineer with over 6 years of experience working in logistics, ridesharing, and gaming. Specialized in scalable backend systems, cloud, and microservices."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/hectorjosecompangabucio/"
 
-
   items:
-    - title: "Backend software developer"
+    - title: "Senior Software Engineer"
+      company: "Cabify"
+      duration: "Feb 2023 - Present"
+      description: "Designed and implemented scalable backend microservices using Go, AWS, Elasticsearch, Redis, and Docker. Led the establishment of the foundational warehouse logistics system for the Logistics - Express & Cross-Dock division. Enhanced monitoring and observability of services through Prometheus, Grafana, and Loki integrations. Advocated for cloud-native best practices and agile methodologies within cross-functional teams."
+    - title: "Backend Software Developer"
       company: "Tacter"
-      duration: "Nov 2020 - Nov 2022 (2 years)"
-      description: "Being part of an early stage startup that provides apps for videogames assistance and coaching, I managed completely the backend of the
-        company, providing API’s for our Android & IOS apps, being in charge of managing our AWS infrastructure and taking critical technical
-        decisions to ensure that our users receive a stable and scalable system.
-        <br><br>**Technology stack**:<br>
-          ● Node.js, Typescript.<br>
-          ● PostgreSQL<br>
-          ● Git & Github.<br>
-          ● CI: Github Actions.<br>
-          ● ESLint for code linting.<br>
-          ● Jest for testing.<br>
-          ● Firebase for users auth.<br>
-          ● AWS related: Elastic Beanstalk for our backend API servers, ECS clusters, AWS Lambda for serverless functions, RDS for managed
-          Postgres databases, DynamoDB, Elasticache for managed Redis servers, Cloudwatch for logging and monitoring, S3 for static
-          assets, Cloudfront as CDN.<br>"
-    - title: "Software developer"
-      company: "Goldcar"
-      duration: "Nov 2019 - Nov 2020 (1 year)"
-      description: "Member of the Document Validation Squad, responsible of scanning the client's documentation (ID, passport) in order to be able to rent a
-        car in Goldcar as fast as possible. This team works following Agile principles and has a strong emphasis on quality assurance.
-        <br><br>**Technology stack**:<br>
-        ● Java 8/11, Spring Boot.<br>
-        ● SQL Server.<br>
-        ● Git & Bitbucket/Gitlab<br>
-        ● CI: Jenkins & Gitlab CI.<br>
-        ● SonarQube for code analysis.<br>
-        ● JUnit, Mockito, Wiremock, Pact and FitNesse for testing.<br>
-        ● Notion for team knowledge, Jira as main source for managing tasks and agile sprints.<br>"
-    - title: "Junior Software developer"
+      duration: "Nov 2020 - Oct 2022"
+      description: "Architected and deployed AWS cloud infrastructure and serverless backend solutions using Node.js and TypeScript. Developed a high-availability API Gateway and scalable services architecture to expand from 1 to multiple gaming products. Key achievement: Contributed to Tacter, a company that became an official partner of Riot Games."
+    - title: "Software Developer"
+      company: "Goldcar Rental (Europcar Mobility Group)"
+      duration: "Nov 2019 - Nov 2020"
+      description: "Designed and deployed Docker-based microservices for fleet management, HR, and sales operations using Java and SpringBoot. Improved internal frameworks, driving faster microservices development cycles. Participated in the technological transition during Goldcar's acquisition by Europcar Mobility Group. Enhanced legacy systems through microservices migration, promoting modular and scalable architectures."
+    - title: "Junior Programmer"
       company: "Altia"
-      duration: "Nov 2018 - Nov 2019 (1 year)"
-      description: "Working for a consulting company, my client was Inditex, one of the largest spanish companies. I developed multiple microservices of vital
-        importance for the intranet of Inditex (human resources, sales, logistics). I also migrated some old web services hosted in Weblogic servers
-        to the new Openshift Platform.
-        <br><br>**Technology stack**:<br>
-        ● Java 7 & 8, Spring and Spring boot as web frameworks.<br>
-        ● Oracle database server.<br>
-        ● Git & Bitbucket.<br>
-        ● CI: Bamboo.<br>
-        ● SonarQube for code analysis.<br>
-        ● Junit and Mockito for testing.<br>
-        ● Confluence for team knowledge, Jira to release management and deployment of microservices."
+      duration: "Nov 2018 - Nov 2019"
+      description: "Developed and maintained enterprise applications for Inditex (Zara, Massimo Dutti) using Java, SQL, and SpringBoot. Delivered solutions across logistics, HR, consulting, and sales departments."
+    - title: "Software Developer (Internship)"
+      company: "Everilion (Everis Group)"
+      duration: "Nov 2016 - Apr 2017"
+      description: "Internship focused on developing scalable software solutions and supporting cloud migration initiatives."
 
 # Client & Work
 client_and_work:
