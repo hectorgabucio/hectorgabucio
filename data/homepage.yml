@@ -43,13 +43,13 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Alicante"
+    - university: "Master's Degree in Computer Science"
       year: "2016-2018"
-      degree: "Master's Degree in Computer Science"
+      degree: "University of Alicante"
 
-    - university: "University of Alicante"
+    - university: "Bachelor's Degree in Computer Science"
       year: "2012-2016"
-      degree: "Bachelor's Degree in Computer Science"
+      degree: "University of Alicante"
 
 # experience
 experience:
