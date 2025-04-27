@@ -5,10 +5,10 @@ showcase:
   subtitle: "Senior Backend Software Engineer"
   description: ""
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/suiza.jpeg"
+    _2x: "img/showcase/suiza.jpeg"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/suiza.jpg"
 
   button:
     icon: "icon-profile-fill"
@@ -35,8 +35,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/hectorjosecompangabucio/"
   image:
-    x: "img/who-am-i/hector.jpeg"
-    _2x: "img/who-am-i/hector@2x.jpeg"
+    x: "img/showcase/suiza.jpeg"
+    _2x: "img/showcase/suiza.jpeg"
 
 # education
 education:
